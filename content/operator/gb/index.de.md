@@ -1,12 +1,12 @@
 ---
-title: National Rail
-country:
-  - united-kingdom
-operator: gb
 aliases:
   - /booking/caledonian-sleeper-website
   - /booking/lner-website
   - /booking/national-rail-ticket-office
+title: National Rail
+country:
+  - united-kingdom
+operator: gb
 ---
 
 In [Großbritannien](/country/united-kingdom "Großbritannien") gibt es viele verschiedene Eisenbahngesellschaften, die als _National Rail_ zusammengefasst werden. Jedes Bahnunternehmen betreibt dabei seine eigenen Strecken. Die meisten Betreiber fokussieren sich dabei jedoch auf eine Region des Landes.

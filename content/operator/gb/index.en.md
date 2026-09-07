@@ -1,12 +1,12 @@
 ---
-title: National Rail
-country:
-  - united-kingdom
-operator: gb
 aliases:
   - /booking/caledonian-sleeper-website
   - /booking/lner-website
   - /booking/national-rail-ticket-office
+title: National Rail
+country:
+  - united-kingdom
+operator: gb
 ---
 
 There are many different railway companies in [Great Britain](/country/united-kingdom "Great Britain"), collectively known as _National Rail_. Each company operates its own routes, mostly focusing on a specific region of the country.
@@ -279,7 +279,6 @@ London Overground complements the Underground network as a kind of suburban rail
 Lumo operates on two routes in Great Britain:
 
 - On the East Coast Main Line between London King's Cross, Newcastle and Edinburgh. FIP is accepted on these East Coast services.
-
 - On the West Coast Main Line, First Lumo Stirling launches Lumo West Coast services in Spring 2026 from London Euston via Milton Keynes, Crewe, Preston and Carlisle to Stirling. FIP is accepted on these West Coast services. [^7]
 
 {{% /train-category %}}
@@ -451,7 +450,7 @@ Great Britain distinguishes between different ticket categories. FIP 50 / FIP 75
 - **Off-Peak Tickets:** \
   These tickets are cheaper than Anytime Tickets but can only be used at restricted times. Usually, the morning peak is excluded, but exact restrictions vary by ticket and are stated in the ticket conditions. FIP 50 / FIP 75 Discount applies to these tickets. There are Single (one-way) and Return (round-trip) tickets. A Return Ticket is sometimes cheaper than two Single Tickets. Break of journey is not possible.
 - **Advance Tickets:** \
-  These tickets are heavily discounted but only valid for the selected train. Tickets can be purchased up to 10 minutes before departure. FIP 50 / FIP 75 Discount does not apply to these tickets.
+  These tickets are heavily discounted but only valid for the selected train. Tickets can be purchased up to 10 minutes before departure. FIP 50 / FIP 75 Discount does not apply to these tickets. For some journeys there may be public advance tickets available that are cheaper than FIP 50 / FIP 75 discounted tickets.
 - **Rovers:** \
   Rovers are day or multi-day tickets valid for unlimited travel in a specific area. FIP 50 / FIP 75 Discount applies to some Rovers. The [National Rail website](https://www.nationalrail.co.uk/ticket-types/promotions/?promotionType=ranger-rover) provides an overview of available Rovers. FIP 50 / FIP 75 Discount is only granted on request.
 
@@ -463,35 +462,35 @@ This is an unofficial list of available Rovers provided by the community (as of 
 
 It can be used as guidance; however, individual offers should be verified via BR Fares.
 
-| Name                        | Rover Code | NLC  | FIP 50 | FIP 75 |
-| --------------------------- | ---------- | ---- | ------ | ------ |
-| ANGLIA PLUS DAY RANGER      | AP1        | K285 | 14.85  | X      |
-| BITTERN LINE DAY RANGER     | BV1        | I013 | 9.50   | X      |
-| CAMBRIAN COASTER DAY RANGER | CCD        | I395 | 9.50   | 4.75   |
-| CORNWALL RANGER             | CRD        | J118 | 8.50   | 4.25   |
-| DEVON RANGER                | TSA        | I857 | 8.50   | 4.25   |
-| EAST SUFFOLK DAY RANGER     | ESR        | I531 | 12.45  | X      |
-| EXPLORE CARDIFF & VALLEYS   | VDR        | I494 | 8.00   | 4      |
-| EXPLORE NORTH WALES         | W37        | H515 | 59.50  | 29.75  |
-| EXPLORE SOUTH WALES         | SW3        | H746 | 59.50  | 29.75  |
-| EXPLORE THE CAPITAL         | ECC        | I512 | 3.75   | 1.85   |
-| EXPLORE WALES               | SW4        | H743 | 74.50  | 37.25  |
-| FODC ROVER 3 IN 7           | D07        | I650 | 33.50  | X      |
-| FODC ROVER 8 IN 15 DAYS     | D37        | I659 | 53.75  | X      |
-| FOSS ROVER 3 IN 7 DAYS      | S37        | I863 | 39.75  | 19.90  |
-| FOSS ROVER 8IN 15 DAYS      | WR7        | I862 | 53.75  | 26.90  |
-| FOSW ROVER 3 IN 7 DAYS      | TSR        | I855 | 67.75  | 33.90  |
-| FOSW ROVER 8 IN 15 DAYS     | SW7        | I621 | 94.25  | 125.55 |
-| HEART OF WESSEX RANGER      | TSV        | I858 | 13.75  | 6.90   |
-| KENNET DAY RANGER           | KDR        | I784 | 8.75   | 4.40   |
-| NORTH DOWNS DAY RANGER      | NDD        | I358 | 11.00  | 5.50   |
-| NORTH WALES ALL ZONE        | NMW        | H522 | 22.50  | 11.25  |
-| OXFORDSHIRE DAY RANGER      | ODR        | I432 | 11.00  | 5.50   |
-| ST IVES LINE DAY            | SID        | I294 | 2.10   | 1.05   |
-| THAMES BRANCHES DAY RANGER  | TBR        | I066 | 13.75  | 6.9    |
-| THAMES ROVER 3 DAYS         | TR3        | I367 | 33.50  | X      |
-| THAMES ROVER 7 DAYS         | TR7        | I367 | 60.50  | X      |
-| Waterside Wander Ranger     | WRR        | I437 | 6.75   | X      |
+| Name | Rover Code | NLC | FIP 50 | FIP 75 |
+| --- | --- | --- | --- | --- |
+| ANGLIA PLUS DAY RANGER | AP1 | K285 | 14.85 | X |
+| BITTERN LINE DAY RANGER | BV1 | I013 | 9.50 | X |
+| CAMBRIAN COASTER DAY RANGER | CCD | I395 | 9.50 | 4.75 |
+| CORNWALL RANGER | CRD | J118 | 8.50 | 4.25 |
+| DEVON RANGER | TSA | I857 | 8.50 | 4.25 |
+| EAST SUFFOLK DAY RANGER | ESR | I531 | 12.45 | X |
+| EXPLORE CARDIFF & VALLEYS | VDR | I494 | 8.00 | 4 |
+| EXPLORE NORTH WALES | W37 | H515 | 59.50 | 29.75 |
+| EXPLORE SOUTH WALES | SW3 | H746 | 59.50 | 29.75 |
+| EXPLORE THE CAPITAL | ECC | I512 | 3.75 | 1.85 |
+| EXPLORE WALES | SW4 | H743 | 74.50 | 37.25 |
+| FODC ROVER 3 IN 7 | D07 | I650 | 33.50 | X |
+| FODC ROVER 8 IN 15 DAYS | D37 | I659 | 53.75 | X |
+| FOSS ROVER 3 IN 7 DAYS | S37 | I863 | 39.75 | 19.90 |
+| FOSS ROVER 8IN 15 DAYS | WR7 | I862 | 53.75 | 26.90 |
+| FOSW ROVER 3 IN 7 DAYS | TSR | I855 | 67.75 | 33.90 |
+| FOSW ROVER 8 IN 15 DAYS | SW7 | I621 | 94.25 | 125.55 |
+| HEART OF WESSEX RANGER | TSV | I858 | 13.75 | 6.90 |
+| KENNET DAY RANGER | KDR | I784 | 8.75 | 4.40 |
+| NORTH DOWNS DAY RANGER | NDD | I358 | 11.00 | 5.50 |
+| NORTH WALES ALL ZONE | NMW | H522 | 22.50 | 11.25 |
+| OXFORDSHIRE DAY RANGER | ODR | I432 | 11.00 | 5.50 |
+| ST IVES LINE DAY | SID | I294 | 2.10 | 1.05 |
+| THAMES BRANCHES DAY RANGER | TBR | I066 | 13.75 | 6.9 |
+| THAMES ROVER 3 DAYS | TR3 | I367 | 33.50 | X |
+| THAMES ROVER 7 DAYS | TR7 | I367 | 60.50 | X |
+| Waterside Wander Ranger | WRR | I437 | 6.75 | X |
 
 {{% /expander %}}
 
@@ -503,7 +502,7 @@ Depending on the ticket type, different conditions apply to ticket cancellation.
 On some routes, trains from different operators run. Different Anytime and Off-Peak Tickets are sold for these routes. These tickets are only valid on the respective operator's trains or on all operators on the route (_Any Route_). [BR Fares](https://www.brfares.com/) provides an overview of available tickets per route. Advance Tickets are always tied to a specific train.
 
 {{% highlight tip %}}
-Through the _[Seatfrog](https://seatfrog.com/)_ app, upgrades to First Class can be purchased for FIP 50 / FIP 75 Tickets and FIP Coupons in Second Class. [^5]
+Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can be purchased for FIP 50 / FIP 75 Tickets and FIP Coupons in Second Class. [^5]
 {{% /highlight %}}
 
 ### Online
@@ -534,7 +533,7 @@ Through the _[Seatfrog](https://seatfrog.com/)_ app, upgrades to First Class can
 
 ### On the Train
 
-FIP-discounted tickets are not issued on trains, except in certain rural areas where tickets are generally only issued on trains (_Pay-Trains_).
+FIP-discounted tickets are not issued on trains, except in certain rural areas where tickets are generally only issued on trains (_Pay-Trains_). There is an obligation to purchase tickets before boarding most rail services where facilities are available to do so ("penalty fare areas"), and not doing so could lead to a fine ("penalty fare") or prosecution.
 
 ## Special Tariff Conditions
 
@@ -705,7 +704,7 @@ The discount is 50% off the regular adult fare.
 There are two major railway museums in Great Britain. The main site is next to York station. A second site is next to Shildon station and is called Locomotion. Both museums are free and offer a good insight into the history of railways in Great Britain. More information on the [Railway Museum in York](https://railwaymuseum.org.uk) and [Locomotion in Shildon](https://locomotion.org.uk).
 
 {{% highlight tip %}}
-Long-distance trains in Great Britain often offer particularly good service in First Class, including snacks, meals, and (alcoholic) drinks. Notably, Avanti on the West Coast Main Line and LNER on the East Coast Main Line. Larger stations often have lounges accessible with a FIP Coupon or FIP 50 / FIP 75 Ticket for First Class. These also offer snacks, meals, and (alcoholic) drinks depending on the operator. A First Class FIP Coupon is especially worthwhile in Great Britain.
+Long-distance trains in Great Britain often offer particularly good service in First Class, including snacks, meals, and (alcoholic) drinks. Notably, Avanti on the West Coast Main Line and LNER on the East Coast Main Line. Larger stations often have lounges accessible with a FIP Coupon or FIP 50 / FIP 75 Ticket for First Class. These also offer snacks, meals, and (alcoholic) drinks depending on the operator. A First Class FIP Coupon is especially worthwhile in Great Britain. AltrenaLA 
 {{% /highlight %}}
 
 Great Britain can also be explored by night trains:
